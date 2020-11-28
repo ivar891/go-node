@@ -1,6 +1,10 @@
 # go-node
 Develop Go and Node 
 
+go version
+
+node -v
+
 In Go we dont need () for if 
 In Node we need ()
 
