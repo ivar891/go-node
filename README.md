@@ -30,9 +30,19 @@ containsAll(client.scopes, scope.split(" "))
 
 randomString()
 
+check if element is in a map
+if (requests[key]){
+}
+
+if key in requests {
+
+}
+
+
 delete a key from map
 delete requests[requestID]
 delete(requests,requestID)
+
 
 
 javascript functions cannot return multiple values , they could return primitive,array or object
