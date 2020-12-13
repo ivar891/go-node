@@ -13,7 +13,7 @@
    <td></td><td>ID</td><td></td>
   </tr>  
   <tr>
-<td>x:=4 <br/>z:= string(x)</td><td></td><td>let y:any=5 <br/>
+<td></td><td></td><td>let y:any=5 <br/>
           let z = &lt;number&gt; y <br/>
           let a = y as number
 </td>
