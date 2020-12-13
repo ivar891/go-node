@@ -14,7 +14,7 @@
   </tr>  
   <tr>
 <td></td><td>x: String</td><td><code>`let y:any=5
-          let z = `<number>`y
+          let z = &lt;number&gt; y
           let a = y as number</code>`
 </td>
     </tr>
