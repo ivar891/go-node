@@ -13,9 +13,9 @@
    <td></td><td>ID</td><td></td>
   </tr>  
   <tr>
-<td></td><td>x: String</td><td>let y:any=5
+<td></td><td>x: String</td><td><code>let y:any=5
 let z = <number>y
-let a = y as number
+    let a = y as number</code>
 </td>
     </tr>
 </table>
